@@ -3,7 +3,7 @@
 ![regulator example data](https://github.com/jaimeggb/Regulator-data-downloader/blob/main/images/regulator-example-data-large.PNG)
 
 ## Description: 
-This program download data from the spanish telecoms regulator data automatically into a folder it creates so that you don't have to do it manually which takes ages. This program can save a strategy consulting firm many man-hours per year.
+This program downloads data from the spanish telecoms regulator (example data shown above) automatically into a folder it creates so that you don't have to do it manually which takes ages. This program can save a strategy consulting firm many man-hours per year.
 
 ## How to use: 
 1. Fork the repository. 
